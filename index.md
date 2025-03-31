@@ -1,5 +1,5 @@
 ---
 title: Tester
-content: this is post content
 ---
 
+this is post content
